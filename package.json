@@ -13,7 +13,7 @@
     "dom-to-image": "^2.6.0",
     "firebase": "^7.14.1",
     "save-svg-as-png": "^1.4.17",
-    "sharp": "^0.25.2",
+    "sharp": "^0.30.5",
     "vue": "^2.6.11",
     "vue-chartjs": "^3.5.0",
     "vue-html2canvas": "^0.0.4",
